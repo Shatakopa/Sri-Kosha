@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "scripture_name": "Abcḍ ṣyz",
+    "slug": "abcd-xyz",
+    "author": "Unknown",
+    "year_of_composition": "Unknown",
+    "category": "ABC",
+    "description": "Description here",
+    "language": " ",
+    "total_chapters": 1,
+    "total_verses": 1
+  },
+  "content": {
+    "title": "Śrī Pārameśvara Saṁhitā",
+    "sections": [
+      {
+        "title": "Chapter 1",
+        "number": 1,
+        "verses": [
+          {
+            "verse_number": 1,
+            "original_text": "श्रीमते रामानुजाय नमः",
+            "iast_text": "śrīmate rāmānujāya namaḥ",
+            "english_translation": "Homage to Ramanuja",
+            "commentaries": [
+                              {"author": "abc",
+                               "commentary": "xyz abc"
+                              }, 
+                              {"author":"pqr",
+                               "commentary":"abc xyz"
+                              }
+            
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter 2",
+        "number": 2,
+        "verses": [
+          {
+            "verse_number": 1,
+            "original_text": "श्रीमते रामानुजाय नमः",
+            "iast_text": "śrīmate rāmānujāya namaḥ",
+            "english_translation": "",
+            "commentaries": []
+          }
+        ]
+      }
+    ]
+  }
+}
